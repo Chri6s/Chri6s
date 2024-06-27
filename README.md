@@ -1,7 +1,7 @@
 <h2 align="center">Stats</h2>
 <a href="https://github.com/FrimeX">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=FrimeX" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=Chri6s" alt="Profile Views Count">
   </p>
 </a>
 
